@@ -73,7 +73,7 @@ def perform_inference_single_image(image_path, output_path, person_model_path, p
 if __name__ == "__main__":
     # Default paths
     default_image_path = "D:\LTA\AI Model\PPE Detection\Yolov8_Person_and_PPE_detection\input\image3.JPG"
-    default_output_path = "D:\LTA\AI Model\PPE Detection\Yolov8_Person_and_PPE_detection\output\output3.jpg"
+    default_output_path = "D:\LTA\AI Model\PPE Detection\Yolov8_Person_and_PPE_detection\output\output5.jpg"
     default_person_model_path = "D:\LTA\AI Model\PPE Detection\Yolov8_Person_and_PPE_detection\weights\person.pt"
     default_ppe_model_path = "D:\LTA\AI Model\PPE Detection\Yolov8_Person_and_PPE_detection\weights\ppe.pt"
     
